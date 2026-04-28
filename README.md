@@ -1,4 +1,4 @@
 # MetaPlate
 <p align="center">
-<img width="1224" height="350" alt="Image" src="https://github.com/user-attachments/assets/efe9c38f-306c-4ddb-a3fb-29bcea68afe9" />
+<img width="1196" height="341" alt="Image" src="https://github.com/user-attachments/assets/d65a7cdb-3e11-4387-b174-fec2c151e064" />
 </p>
