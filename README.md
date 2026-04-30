@@ -1,11 +1,15 @@
 # MetaPlate
 <p align="center">
-<img width="1196" height="341" alt="Image" src="https://github.com/user-attachments/assets/d65a7cdb-3e11-4387-b174-fec2c151e064" />
+<img width="612" height="408" alt="Image" src="https://github.com/user-attachments/assets/4f7bdd4d-494f-4910-850e-ab2cf2a062f8" />
 </p>
 
 # 🍽️ Personalized Meal Generation via Counterfactual Modeling + LLMs
 
 This repository presents an end-to-end pipeline for **predicting postprandial glucose response**, generating **counterfactual dietary recommendations**, and translating them into **realistic meal plans using Large Language Models (LLMs)**.
+
+<p align="center">
+<img width="1196" height="341" alt="Image" src="https://github.com/user-attachments/assets/d65a7cdb-3e11-4387-b174-fec2c151e064" />
+</p>
 
 ---
 
