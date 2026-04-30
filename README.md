@@ -1,6 +1,6 @@
 # MetaPlate
 <p align="center">
-<img width="612" height="408" alt="Image" src="https://github.com/user-attachments/assets/4f7bdd4d-494f-4910-850e-ab2cf2a062f8" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd0de8ae-3dd1-4afd-b5ea-0761abe2112a" />
 </p>
 
 # 🍽️ Personalized Meal Generation via Counterfactual Modeling + LLMs
